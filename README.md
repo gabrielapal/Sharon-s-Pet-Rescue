@@ -2,7 +2,7 @@
 
 Skillcrush practice exercise working with Factory Functions. 
 
-Visitors will be able to click the “Show Pet Status” button to quickly see which pets are available to meet and play with 🐰
+Visitors will be able to click the “Show Pet Status” button to quickly see which pets are available to meet and play with! 🐰
 
 # Skills practiced:
 - factory functions
